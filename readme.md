@@ -21,7 +21,7 @@ In this document let's explore about how to use Turbonomic API in the Postman.
 <img src="images/image-1-usr13.png">
 
 
-## 2. Do Login using Postman
+## 2. Login using Postman
 
 In the Postman do the following.
 
