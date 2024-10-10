@@ -2,15 +2,15 @@
 
 In this document let's explore about how to use Turbonomic API in the Postman.
 
-## 1. Create External User
+## 1. Create Local User
 
-1. Create a new External user by choosing the below menu option.
+1. Create a new Local user by choosing the below menu option.
 
-`SETTINGS > External Authentication > Observer > Add > New External User`
+`Home > SETTINGS > Local User >  New Local User`
 
 <img src="images/image-1-usr11.png">
 
-2. User name could be `demo_observer` and Role can be `Observer`
+2. User name could be `demo_observer`, give some password and choose role as `Observer`
 
 3. Click `Save` button
 
