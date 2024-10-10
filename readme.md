@@ -67,7 +67,7 @@ In the Postman do the following.
 
 3. In the `Headers` tab, enter the values as highlighted in the below image
 
-You can also notice the `Cookie` variable contains `JSESSIONID=nodeOvIc9kmdast4pen5hkd5j1sfq97...`, which is basically generated from the login step that we executed before. If this variable is not set by default then you can also add manually the `Cookie` variable and copy the `JSESSIONID....` from the previous POST method header section.
+You may also notice that the `Cookie` variable contains `JSESSIONID=nodeOvIc9that kmdast4pen5hkd5j1sfq97...`, which is  generated during the login step we performed earlier. If this variable is not set automatically, you can manually add the `Cookie` variable and copy the `JSESSIONID....` from the headers of previous POST method.
 
 4. Click `Send` button
 
